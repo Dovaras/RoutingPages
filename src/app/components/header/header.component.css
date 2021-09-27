@@ -1,3 +1,9 @@
+p {
+  display: inline-block;
+  color: #EECC3A;
+  font-size: xx-large;
+}
+
 .active_button {
   font-style: italic;
 }
