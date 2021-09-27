@@ -1,3 +1,10 @@
+p {
+  display: inline-block;
+  vertical-align: top;
+  color: #EECC3A;
+  font-size: xx-large;
+}
+
 .active_button {
   font-style: italic;
 }
