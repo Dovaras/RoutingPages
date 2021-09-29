@@ -2,6 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
+## Exercise
+
+To make an application containing two pages.
+
+## Two pages
+
+Create some company representing pages: e.g. page "About" and page "Home".
+
+## Requirements
+
+Something is shown: pictures, buttons and so on. Put everything to Git.
+
+## Components
+
+Make at least four components, e.g.:
+* header 
+* footer
+* home
+* about
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
