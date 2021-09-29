@@ -5,15 +5,18 @@ p {
   font-size: xx-large;
 }
 
-/* .active_button:hover {
-} */
+.nav-link.active:hover {
+  background-color: red;
+}
 
-.active_button {
+.nav-link.active {
   background-color: blue;
 }
 
-.active_button:hover {
-  background-color: blueviolet;
+.nav-item {
+  margin-left: 10px;
 }
 
-ul
+.nav.nav-pills {
+  position: center;
+ }
