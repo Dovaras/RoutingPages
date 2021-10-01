@@ -1,9 +1,9 @@
-p {
+/* p {
   display: inline-block;
   vertical-align: top;
   color: #EECC3A;
   font-size: xx-large;
-}
+} */
 
 .nav-link.active:hover {
   background-color: red;
@@ -15,8 +15,4 @@ p {
 
 .nav-item {
   margin-left: 10px;
-}
-
-.nav.nav-pills {
-  position: center;
 }
