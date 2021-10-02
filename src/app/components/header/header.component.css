@@ -1,10 +1,18 @@
-p {
+/* p {
   display: inline-block;
   vertical-align: top;
   color: #EECC3A;
   font-size: xx-large;
+} */
+
+.nav-link.active:hover {
+  background-color: red;
 }
 
-.active_button {
-  font-style: italic;
+.nav-link.active {
+  background-color: blue;
+}
+
+.nav-item {
+  margin-left: 10px;
 }
