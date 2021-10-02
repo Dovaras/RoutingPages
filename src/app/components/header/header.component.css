@@ -1,18 +1,22 @@
-/* p {
-  display: inline-block;
-  vertical-align: top;
-  color: #EECC3A;
-  font-size: xx-large;
-} */
-
-.nav-link.active:hover {
-  background-color: red;
-}
-
-.nav-link.active {
+.home:hover, .about:hover {
   background-color: blue;
+  cursor: pointer;
+}
+.home {
+  left: 40%;
+}
+.about {
+  left: 50%;
 }
 
-.nav-item {
-  margin-left: 10px;
+div > button {
+  background-color: red;
+  position: absolute;
+  display: inline-grid;
+  color: white;
+  border: none;
+  margin: 5px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }

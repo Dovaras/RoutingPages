@@ -8,7 +8,7 @@ To make an application containing two pages.
 
 ## Two pages
 
-Create some company representing pages: e.g. page "About" and page "Home".
+Create some me representing pages: e.g. page "About" and page "Home".
 
 ## Requirements
 
