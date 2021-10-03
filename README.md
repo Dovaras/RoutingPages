@@ -24,8 +24,9 @@ Made five components:
 * app
 
 ## Tools
-Visual Studio Code and mainly Bootstrap.
+Visual Studio Code, GitHub Desktop and mainly Bootstrap.
 
+## Standard...:
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
