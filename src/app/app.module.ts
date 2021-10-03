@@ -14,7 +14,7 @@ import { RouterModule } from '@angular/router';
     HeaderComponent,
     AboutComponent,
     HomeComponent,
-    FooterComponent
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
