@@ -6,21 +6,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 To make an application containing two pages.
 
-## Two pages
+## One page
 
-Create some me representing pages: e.g. page "About" and page "Home".
+I've planed to creat some two representing pages, that's why every where there are two buttons: e.g. button "About" and button "Home".
 
 ## Requirements
 
-Something is shown: pictures, buttons and so on. Put everything to Git.
+Something in this app is shown: pictures, buttons, random text. And everything is transferred to Git.
 
 ## Components
 
-Make at least four components, e.g.:
+Made five components:
 * header 
 * footer
 * home
 * about
+* app
 
 ## Development server
 
